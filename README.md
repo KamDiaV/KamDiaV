@@ -1,4 +1,4 @@
-## Hello 🖖
+## Hello 🤍
 
 I'm Diana and I'm a Frontend Developer from Almaty. 
 
