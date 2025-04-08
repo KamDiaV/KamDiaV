@@ -1,6 +1,6 @@
 ## Hello 🤍
 
-I'm Diana and I'm a Frontend Developer from Almaty. 
+I'm Diana and I'm a Frontend Developer currently living in Almaty. 
 
 <div id="header" align="start">
   <img src="https://99px.ru/sstorage/86/2017/04/12804170916056557.gif" width="400"/>
