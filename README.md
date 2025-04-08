@@ -8,13 +8,13 @@ I'm Diana and I'm a Frontend Developer from Almaty.
 <br><br>
 
 - 🎓 I’m currently deepening my knowledge in **React** and **Vue**
-- 📖 I run a <a href="https://t.me/kamdiamore" target="blank">personal channel</a> where I share more about my successes in frontend development
+- 📖 I run a <a href="https://t.me/kamdiamore" target="_blank">personal channel</a> where I share more about my successes in frontend development
 - 💬 Beyond coding, I’m passionate about exploring the world of medicine, getting lost in a good book, and expressing my creativity through drumming.
 
 
 ### Connect with me:
-- <a href="https://t.me/kamikodi" target="blank">Telegram</a>
-- <a href="kamikoana@gmail.com" target="blank">E-mail</a>
+- <a href="https://t.me/kamikodi" target="_blank">Telegram</a>
+- <a href="kamikoana@gmail.com" target="_blank">E-mail</a>
 
 ### Technologies:
 <div>
