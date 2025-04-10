@@ -9,7 +9,7 @@ I'm Diana and I'm a Frontend Developer based in Almaty.
 
 - 🎓 I’m currently learning **React** and **Vue**
 - 📖 I run a <a href="https://t.me/kamdiamore" target="_blank">personal channel</a> where I share more about my successes in frontend development
-- 💬 Beyond coding, I’m passionate about exploring the world of medicine, getting lost in a good book, and expressing my creativity through drumming.
+- 💬 Beyond coding, I’m passionate about medicine, photography and drumming.
 
 
 ### Connect with me:
