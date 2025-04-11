@@ -13,7 +13,6 @@ I'm Diana and I'm a Frontend Developer based in Almaty.
 
 
 ### Connect with me:
-- <a href="https://t.me/kamikodi" target="_blank">Telegram</a>
 - <a href="kamikoana@gmail.com" target="_blank">E-mail</a>
 
 ### Technologies:
