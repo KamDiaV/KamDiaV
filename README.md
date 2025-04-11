@@ -13,7 +13,7 @@ I'm Diana and I'm a Frontend Developer based in Almaty.
 
 
 ### Connect with me:
-- <a href="kamikoana@gmail.com" target="_blank">E-mail</a>
+- stdiana.4224@gmail.com
 
 ### Technologies:
 <div>
