@@ -12,9 +12,6 @@ I'm Diana and I'm a Frontend Developer based in Almaty.
 - 💬 Beyond coding, I’m passionate about medicine, photography and drumming.
 
 
-### Connect with me:
-- stdiana.4224@gmail.com
-
 ### Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
