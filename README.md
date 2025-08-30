@@ -8,7 +8,7 @@ I'm Diana and I'm a Frontend Developer based in Almaty.
 <br><br>
 
 - 🎓 I’m currently learning **React**
-- 📖 I run a <a href="[https://t.me/kamdiamore](https://t.me/+SUaHsCdH10CL4pn6)https://t.me/+SUaHsCdH10CL4pn6" target="_blank">personal channel</a> where I share more about my successes in frontend development
+- 📖 I run a <a href="https://t.me/+SUaHsCdH10CL4pn6" target="_blank">personal channel</a> where I share more about my successes in frontend development
 - 💬 Beyond coding, I’m passionate about photography and drumming.
 
 
