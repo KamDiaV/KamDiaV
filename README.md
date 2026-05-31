@@ -2,8 +2,6 @@
 
 I'm Diana, a Frontend Developer from Kazakhstan.
 
-<br><br>
-
 - 🌱 Currently building frontend projects and improving my HTML, CSS, JavaScript and React skills.
 - 🚀 Documenting my frontend journey: https://github.com/KamDiaV/frontend-journey
 - 📸 Beyond coding, I'm passionate about photography, books and travel.
