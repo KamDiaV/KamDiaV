@@ -7,7 +7,7 @@ I build web projects, study frontend development and document what I learn.
 - 💻 Working with HTML, CSS, SCSS and JavaScript
 - 🌱 Currently learning TypeScript and React
 - 🧭 Following my [frontend engineering roadmap](https://github.com/KamDiaV/frontend-engineering-roadmap)
-- 📚 Building my [frontend knowledge base](https://github.com/KamDiaV/frontend-engineering-roadmap/blob/main/knowledge-base/README.md))
+- 📚 Building my [frontend knowledge base](https://github.com/KamDiaV/frontend-engineering-roadmap/blob/main/knowledge-base/README.md)
 - 🤖 Exploring AI-assisted development
 - 📸 Outside of coding, I enjoy photography, books and travel
 
