@@ -5,7 +5,8 @@ I'm Diana.
 I'm building a strong foundation in web engineering with a long-term focus on frontend systems, architecture and reliable product development.
 
 - 💻 Working with HTML, CSS, SCSS and JavaScript, while expanding into TypeScript and React
-- 🧭 Following a personal structured [frontend engineering roadmap](https://github.com/KamDiaV/frontend-engineering-roadmap)
+- 🧭 Building my skills through a structured [frontend engineering roadmap](https://github.com/KamDiaV/frontend-engineering-roadmap)
+- 📚 Building a personal [frontend engineering knowledge base](https://github.com/KamDiaV/frontend-engineering-knowledge-base)
 - 🤖 Exploring AI-assisted software development
 - 📸 Outside of coding, I enjoy photography, books and travel
 
