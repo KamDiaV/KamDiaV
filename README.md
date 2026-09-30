@@ -6,7 +6,7 @@ I'm building a strong foundation in web engineering with a long-term focus on fr
 
 - 💻 Working with HTML, CSS, SCSS and JavaScript, while expanding into TypeScript and React
 - 🧭 Building my skills through a structured [frontend engineering roadmap](https://github.com/KamDiaV/frontend-engineering-roadmap)
-- 📚 Building a personal [frontend engineering knowledge base](https://github.com/KamDiaV/frontend-engineering-knowledge-base)
+- 📚 Building a personal [frontend engineering knowledge base](https://github.com/KamDiaV/frontend-engineering-roadmap/blob/main/knowledge-base/README.md)
 - 🤖 Exploring AI-assisted software development
 - 📸 Outside of coding, I enjoy photography, books and travel
 
