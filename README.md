@@ -1,13 +1,14 @@
 ## Hello 🤍
 
-I'm Diana.
+I'm Diana, a frontend developer.
 
-I'm building a strong foundation in web engineering with a long-term focus on frontend systems, architecture and reliable product development.
+I build web projects, study frontend development and document what I learn.
 
-- 💻 Working with HTML, CSS, SCSS and JavaScript, while expanding into TypeScript and React
-- 🧭 Building my skills through a structured [frontend engineering roadmap](https://github.com/KamDiaV/frontend-engineering-roadmap)
-- 📚 Building a personal [frontend engineering knowledge base](https://github.com/KamDiaV/frontend-engineering-roadmap/blob/main/knowledge-base/README.md)
-- 🤖 Exploring AI-assisted software development
+- 💻 Working with HTML, CSS, SCSS and JavaScript
+- 🌱 Currently learning TypeScript and React
+- 🧭 Following my [frontend engineering roadmap](https://github.com/KamDiaV/frontend-engineering-roadmap)
+- 📚 Building my [frontend knowledge base](https://github.com/KamDiaV/frontend-engineering-roadmap/blob/main/knowledge-base/README.md))
+- 🤖 Exploring AI-assisted development
 - 📸 Outside of coding, I enjoy photography, books and travel
 
 ### Tech stack:
@@ -31,15 +32,4 @@ I'm building a strong foundation in web engineering with a long-term focus on fr
 
 ### Next:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux Toolkit" alt="Redux Toolkit" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>
-</div>
-
-<p>
-  TanStack Query · Zod · React Hook Form
-</p>
+Next.js · Node.js · Redux Toolkit · Testing
